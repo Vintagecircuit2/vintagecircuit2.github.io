@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400&display=swap");
 @import url("https://discord-custom-covers.github.io/usrbg/dist/usrbg.css");
 @import url("https://monstrousdev.github.io/themes/addons/user-tags.css");
 :root {
@@ -1318,7 +1318,7 @@
 }
 
 :root ::-webkit-input-placeholder, :root body, :root button, :root input, :root select, :root textarea {
-  font-family: "Fira Sans" !important;
+  font-family: "Ubuntu" !important;
   font-weight: bold !important;
 }
 :root .bg-h5JY_x {
