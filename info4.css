@@ -1319,7 +1319,7 @@
 
 :root ::-webkit-input-placeholder, :root body, :root button, :root input, :root select, :root textarea {
   font-family: "Fira Sans Condensed" !important;
-  font-weight: normal !important;
+  font-weight: bold !important;
 }
 :root .bg-h5JY_x {
   background: var(--background-tertiary-alt);
